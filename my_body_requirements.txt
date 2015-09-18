@@ -1,0 +1,9 @@
+protein -120
+lipids - 60
+fibre - 38g
+carbohydrates - 130g
+Vit A - 3000 IU
+Vit C - 90mg
+Vit D - 200 IU
+Calcium - 1000mg
+calories - 2243
