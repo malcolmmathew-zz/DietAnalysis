@@ -12,13 +12,15 @@ The program then receives user inputs on food group preferences to create a list
 In order to use this repository you need to have Python and IPython installed.
 
 The program also uses the following modules:
-pandas
-numpy
-matplotlib
-lxml
-requests
+* pandas
+* numpy
+* matplotlib
+* lxml
+* requests
 
 ## Setup
 
 To use this code, first clone this repository from https://github.com/malcolmmathew/DietAnalysis
-Then navigate to the folder and run the notebook by executing "ipython notebook"
+Then navigate to the folder and run the notebook by executing 
+
+	ipython notebook
