@@ -7,3 +7,40 @@ Vit C - 90mg
 Vit D - 200 IU
 Calcium - 1000mg
 calories - 2243
+
+
+breakfast
+fruit
+grain
+dairy
+AND
+protein 60g
+fibre 20g
+
+lunch 
+protein 20g
+
+dinner
+protein 40g
+
+
+GOAL:
+Create a function given food groups and nutricial facts pulls all relevant ingredient for a meal and returns an array of potiental ingredient sets that satisfy
+
+e.g.
+
+def extract_ingredients(mealType, foodGroupArray, nutrientsDictionary) 
+
+ex: extract_ingredients(['fruit', 'grain', 'dairy'], { protein: 50, fibre: 20.. })
+
+result is:
+[Milk, Orange, Toast] - protein: 48, fibre: 18 .. 
+[Apple, Egg, Toast] - protein: 40, fibre: 20
+[Peanuts, Almond Milk, Cucumber] - protein: 30, fibre: 20
+...
+
+Compare 
+
+
+
+
